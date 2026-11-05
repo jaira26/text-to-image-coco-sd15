@@ -1,0 +1,9 @@
+torch
+diffusers>=0.30
+transformers>=4.44
+accelerate
+scikit-learn
+pandas
+matplotlib
+pillow
+tqdm

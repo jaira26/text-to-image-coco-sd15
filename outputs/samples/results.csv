@@ -1,0 +1,6 @@
+type,prompt,ref_file,seconds,nsfw_flag,clip_score_generated,clip_score_real,seed,steps,guidance
+dataset,"A woman with a hat, tie and striped halter smoking a long cigarette",images/000000019924.jpg,6.56,False,30.77,26.39,42,25,7.5
+dataset,A hot dog vendor sits outside a famous building in the city,images/000000289938.jpg,4.92,False,28.34,30.73,42,25,7.5
+counting,Three red apples on a wooden table,,4.95,False,24.38,,42,25,7.5
+spatial,A cat sitting to the left of a dog on a sofa,,4.97,False,32.31,,42,25,7.5
+compositional,A giraffe wearing a business suit riding a bicycle in a city street,,5.01,False,32.12,,42,25,7.5
